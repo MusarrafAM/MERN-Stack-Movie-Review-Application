@@ -2,7 +2,7 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors"); // To Avoid Network issues
 
-// Databases
+// Database
 main().catch((err) => console.log(err));
 
 async function main() {
