@@ -15,8 +15,8 @@ async function main() {
 
   // Create Model
   const Movie = mongoose.model("Movie", movieSchema);
-  // const Avatar = new Movie({ name: "Avatar", review: "Amazing" });
-  // await Avatar.save()
+  const Avatar = new Movie({ name: "Avatar", review: "Amazing Visuals" });
+  await Avatar.save();
 
   const app = express();
   app.use(cors());
