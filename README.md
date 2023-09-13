@@ -1,3 +1,11 @@
+# Video Demostration
+https://github.com/MusarrafAM/MERN-Stack-Movie-Review-Application/assets/102628794/b55941ec-0c78-40a6-84cd-d585352fb093
+
+# Screenshots
+![1](https://github.com/MusarrafAM/MERN-Stack-Movie-Review-Application/assets/102628794/2ce0b2f8-71a2-4f38-a52d-32ead57f21a8)
+![2](https://github.com/MusarrafAM/MERN-Stack-Movie-Review-Application/assets/102628794/af82bfae-74be-4fa4-8057-12f911b11245)
+![3](https://github.com/MusarrafAM/MERN-Stack-Movie-Review-Application/assets/102628794/c29dee81-9782-44c1-a568-6df18e4a7b4e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
